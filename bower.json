@@ -1,6 +1,6 @@
 {
   "name": "vaadin-charts",
-  "version": "3.2.0-beta1",
+  "version": "3.2.0-alpha1",
   "description": "Vaadin Charts Web Components",
   "authors": [
     "Vaadin Ltd"
@@ -17,7 +17,7 @@
   "license": "https://raw.githubusercontent.com/vaadin/vaadin-charts/master/LICENSE.txt",
   "repository": {
     "type": "git",
-    "url": "git@github.com:vaadin/vaadin-charts.git"
+    "url": "git@github.com:manolo/vaadin-charts.git"
   },
   "ignore": [
     "**/.*",
